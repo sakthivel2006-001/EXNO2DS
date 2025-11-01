@@ -1,4 +1,4 @@
-# EXNO2DS
+# EXNO2DS : EDA Analysis using Python
 ## SAKTHIVEL S
 ## 212223220090
 # AIM:
